@@ -1,0 +1,49 @@
+About the job
+Location: Remote
+Experience: 0–3 years
+Compensation: ₹9–12 LPA
+Company: GoodSpace
+
+
+About GoodSpace
+
+
+GoodSpace is an AI-powered job platform helping millions of job seekers find the right opportunities faster. Our technology simplifies job discovery, improves hiring outcomes, and builds trust between candidates and employers. We’re now expanding our data team to strengthen our AI-driven product experiences.
+
+
+Role Overview
+
+
+We are looking for a detail-oriented Data Analyst who loves working with data, uncovering insights, and enabling better product and business decisions. You will work closely with product, engineering, and growth teams to build dashboards, run analyses, and support our AI initiatives.
+
+
+Key Responsibilities:
+Collect, clean, and analyze large datasets from multiple sources (product, marketing, user behavior, etc.).
+Build and maintain dashboards and automated reports for internal teams.
+Identify trends, patterns, and anomalies to support data-driven decision-making across product and business teams.
+Collaborate with engineering to improve data pipelines and ensure data accuracy.
+Conduct A/B tests, cohort analyses, funnel analyses, and performance tracking.
+Provide actionable insights to improve user journeys, retention, and job-matching outcomes.
+Support model evaluation and data preparation for AI/ML projects (basic exposure is enough).
+
+
+Requirements:
+Bachelor’s degree in Engineering, Statistics, Mathematics, Computer Science, Economics, or related field.
+Strong skills in SQL and Excel/Google Sheets.
+Experience with analytical tools like Python/R is a plus (not mandatory).
+Familiarity with BI tools (Tableau, PowerBI, Metabase, Looker, etc.).
+Strong problem-solving skills and attention to detail.
+Ability to present data clearly and translate complexity into actionable insights.
+
+
+Good to Have:
+Experience working in a startup or fast-paced environment.
+Understanding of user funnels, marketplace metrics, or job-tech/HR-tech analytics.
+Exposure to statistics, experimentation frameworks, or predictive analytics.
+
+
+Why Join GoodSpace?
+Work on real problems impacting millions of job seekers.
+High ownership, fast learning, and close collaboration with founders.
+Opportunity to grow into data science, product analytics, or business intelligence roles.
+A mission-driven, AI-first culture focused on impact and innovation.
